@@ -17,7 +17,7 @@ def getRandomSongDict():
 
 
 def nameAndArtistString(dict):
-    return f"{dict['song']} : {dict['artist']}\n \n \n"
+    return f"{dict['song']} : {dict['artist']}"
 
 
 def setString(dict):
